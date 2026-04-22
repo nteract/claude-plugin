@@ -1,0 +1,14 @@
+{
+  "name": "nteract",
+  "owner": {
+    "name": "nteract"
+  },
+  "plugins": [
+    {
+      "name": "nightly",
+      "source": "./plugins/nightly",
+      "description": "nteract notebooks (nightly channel) in Claude Code.",
+      "version": "0.1.0"
+    }
+  ]
+}
